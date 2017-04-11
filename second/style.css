@@ -1,0 +1,39 @@
+
+section{
+    display: inline-block;
+    float: left;
+}
+
+.left{
+  width: 33%;
+  height: 100vh;
+  background: mediumblue;
+}
+
+.middle{
+  width: 34%;
+  height: 100vh;
+  background: lightseagreen;
+}
+
+.right{
+  width: 33%;
+  height:100vh;
+  background: lightgoldenrodyellow;
+}
+
+.image_placeholder{
+  background: red;
+  margin-top: 75vh;
+  height: 25vh;
+  width: 100%;
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25vh;
+}
