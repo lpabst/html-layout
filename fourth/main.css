@@ -1,0 +1,38 @@
+.main_header{
+    width: 100%;
+    height: 80px;
+    background: gray;
+}
+
+nav{
+    padding-top: 25px;
+} 
+
+li{
+    display: inline-block;
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+.boxes{
+    width: 80%;
+    max-width: 600px;
+    margin: 10% auto;
+}
+
+.box{
+    width: 50%;
+    height: 17vh;
+    float: left;
+    background: gray;
+}
+
+section:nth-child(even){
+    background: darkgray;
+}
+
+section:nth-child(3n+1){
+    background: black;
+}
