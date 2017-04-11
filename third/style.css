@@ -1,0 +1,60 @@
+
+.main_header{
+    width: 100%;
+    height: 100px;
+    max-height: 100px;
+    background: lightgray;
+    padding-top: 10px;
+    
+}
+
+div{
+    width: 80px;
+    height: 80%;
+    background: blue;
+    margin-left: 14px;
+}
+
+section{
+    width:100%;
+    height: 17vh;
+    min-height: 100px;
+}
+
+.white{
+    padding-top: 40px;
+}
+
+.text{
+    width: 88%;
+    background: white;
+    margin-bottom: 34px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: slategray;
+}
+
+.blue{
+    background: blue;
+}
+
+.seafoam_green{
+    background: lightseagreen;
+}
+
+.brown_green{
+    background: tan;
+}
+
+.main_footer{
+    width: 100%;
+    height: 18vh;
+    min-height: 100px;
+    background: yellow;
+}
+
